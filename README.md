@@ -1,2 +1,2 @@
 
-Remake of the old version tindoc.co
+Remake of the old version tindog.co
