@@ -1,2 +1,2 @@
 
-Remake of the old version tindog.co
+responsive remake of the old version of tindog.co using only html and css
